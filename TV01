@@ -3196,6 +3196,10 @@ https://radiomelody.com.ar/hls/58204630.m3u8
 https://live.obslivestream.com/crtvmux/index.m3u8
 #EXTINF:-1 tvg-name="CREO TV " tvg-logo="https://i.ibb.co/fQ7Zh1p/jCAmrwt.png" group-title="→ PERU ←",CREO TV
 https://srv1.mediastreamperu.com/creotv/index.fmp4.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Z6y6zrXX/creokids.png" group-title="→ PERU ←",CREO KIDS
+https://live-evg25.tv360.bitel.com.pe/bitel/creokids/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvt5PNF2/creolatino.png" group-title="→ PERU ←",CREO LATINO CINE
+https://live-evg25.tv360.bitel.com.pe/bitel/creolatino/playlist.m3u8?
 #EXTINF:-1 tvg-name="CTC CUSCO " tvg-logo="https://i.ibb.co/vzGj5SM/CTC-Compa-a-de-Televisi-n-Cusque-a-en-vivo-Online.png" group-title="→ PERU ←",CTC CUSCO
 https://live-evg25.tv360.bitel.com.pe/bitel/ctc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DbRDVrb/deltatv.png" group-title="→ PERU ←",DELTA TV
