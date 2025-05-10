@@ -2412,6 +2412,8 @@ https://mitv.zplay.cl/Ztv/tracks-v1a1/mono.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fmVn761/360RFTV.png" group-title="→ COSTA RICA ←",360 RFTV
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-name="ANTENA SEIS " tvg-logo="https://i.ibb.co/rdvdC3c/9Nh2mo9.png" group-title="→ COSTA RICA ←",ANTENA SEIS
 https://cloudvideo.servers10.com:8081/8132/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="A&W TV CR " tvg-logo="https://meganettv.fun/storage/channel-logos/dzjHQNHFgajlSMioISFTodUJRLZ9e13ZReBnPwea.jpg" group-title="→ COSTA RICA ←",A&W TV CR
