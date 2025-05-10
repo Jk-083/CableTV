@@ -3227,6 +3227,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/hoyperutv/chunks.m3u8
 https://stmv.streamingvip.click/hoynet/hoynet/playlist.m3u8
 #EXTINF:-1 tvg-name="HOYNET " tvg-logo="https://i.ibb.co/5XZb0FR5/huachotv.png" group-title="→ PERU ←",HUACHO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/huacho/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qLD88VVh/huantatv.png" group-title="→ PERU ←",HUANTA TV
+https://live-evg25.tv360.bitel.com.pe/bitel/huantatv/playlist.m3u8?
 #EXTINF:-1 tvg-name="IMPACTO TV " tvg-logo="https://i.ibb.co/YDTPYbq/Impactotv.png" group-title="→ PERU ←",IMPACTO TV
 https://cloudvideo.servers10.com:8081/impactotv/index.m3u8
 #EXTINF:-1 tvg-name="IMPACTO TV " tvg-logo="https://i.ibb.co/k2Q3PYnK/inkavision.png" group-title="→ PERU ←",INKA VISION
@@ -3275,8 +3277,10 @@ https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
 #EXTINF:-1 tvg-name="ONDA DIGITAL TV " tvg-logo="https://pbs.twimg.com/media/E8dWyD0WUAUBj9v.png" group-title="→ PERU ←",ONDA DIGITAL TV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-name="ONDA TV " tvg-logo="https://i.ibb.co/99rmbLz/d0ac81927fcd-640-360.png" group-title="→ PERU ←",ONDA TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/99rmbLz/d0ac81927fcd-640-360.png" group-title="→ PERU ←",ONDA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYtLkmdB/odtv2.png" group-title="→ PERU ←",ONDA TV 2
+https://live-evg25.tv360.bitel.com.pe/bitel/odtv2/playlist.m3u8?
 #EXTINF:-1 tvg-name="PALMERAS TV " tvg-logo="https://grupopalmerastv.com/portal/wp-content/uploads/2021/04/logo-para-web.png" group-title="→ PERU ←",PALMERAS TV
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-name="PANAMERICANA TV " tvg-logo="https://i.ibb.co/Jt9kryv/uQhEDES.png" group-title="→ PERU ←",PANAMERICANA TV PE
@@ -3361,6 +3365,8 @@ https://live-evg12.tv360.bitel.com.pe/8134/8134/playlist.m3u8
 https://5790d294af2dc.streamlock.net/8134/8134/playlist.m3u8
 #EXTINF:-1 tvg-name="TV CUSCO " tvg-logo="https://i.ibb.co/1Tb9xR3/logo-tv-en-linea-cusco.png" group-title="→ PERU ←",TV CUSCO
 https://s4.tvdatta.com:3450/live/tvenlinealive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zhdg0R5C/tvmar.png" group-title="→ PERU ←",TVMAR
+https://live-evg25.tv360.bitel.com.pe/bitel/tvmar/playlist.m3u8?
 #EXTINF:-1 tvg-name="TV NORTE " tvg-logo="https://i.ibb.co/zWg9Km2/315175850-1478838992611882-5246255661603837192-n.png" group-title="→ PERU ←",TV NORTE
 https://live-evg25.tv360.bitel.com.pe/bitel/tvnorte/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/r5cSvcx/canal21.png" group-title="→ PERU ←",TV WANKA CANAL 21
@@ -3387,6 +3393,10 @@ https://live.obslivestream.com/viaaltomayomux/index.m3u8
 https://live.obslivestream.com/vivatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4pCszZ5/xtv.png" group-title="→ PERU ←",XTV
 https://live-evg25.tv360.bitel.com.pe/bitel/xtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RTGWgQ6n/xtvplus.png" group-title="→ PERU ←",XTV PLUS
+https://live-evg25.tv360.bitel.com.pe/bitel/xtvplus/playlist.m3u8?
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qF0hGBmR/xtremo.png" group-title="→ PERU ←",XTREMA TV HD
+https://live-evg25.tv360.bitel.com.pe/bitel/extremotv/playlist.m3u8?
 #EXTINF:-1 tvg-name="YA TV " tvg-logo="https://i.ibb.co/pWYNQF2/cropped-447997391-361613810277317-4738933754693171429-n.jpg" group-title="→ PERU ←",YA TV
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6gKGXDY/YURIVISION.png" group-title="→ PERU ←",YURIVISION
