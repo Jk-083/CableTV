@@ -1912,7 +1912,7 @@ https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 https://stream-gtlc.telecentro.net.ar/hls/telemaxhls/0/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DQRGzYS/3535180fcdf0051d35d585ffa08edbe4.png" group-title="→ ARGENTINA ←",TELEMIX
-https://fl1002.bozztv.com/ssh101/telemixlive/tracks-v1a1/mono.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/telemixlive/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/tele-n.png" group-title="→ ARGENTINA ←",TELE N
 https://fl1002.bozztv.com/ssh101/telentv/tracks-v1a1/mono.m3u8
@@ -2145,7 +2145,7 @@ https://byecableiptvnew3.ddns.net/ENVIVOMIGENTE/index.m3u8
 https://vcp.myplaytv.com/moviefe/moviefe/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zhKkJKM/hPxt2OK.png" group-title="→ COLOMBIA ←",MULTICANAL TV
-https://fl1001.bozztv.com/ssh101/KIOCApP/tracks-v1a1/mono.m3u8
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/multicanal/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wixstatic.com/media/1aea54_5a037112299a433ca357b76a9afeeafe~mv2.png" group-title="→ COLOMBIA ←",MUNDO VISION TV
 https://movil.ejeserver.com/live/mundovisiontv.m3u8
@@ -2651,8 +2651,8 @@ https://server.asilivehd.com:3242/live/nortvisionlive.m3u8
 https://cloudvideo.servers10.com:8081/8118/index.m3u8
 #EXTINF:-1 tvg-name="OROMAR TV " tvg-logo="https://i.ibb.co/njX1YHt/OTV800.png" group-title="→ ECUADOR ←",OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
-#EXTINF:-1 tvg-name="PANTALLA CLASICA TV " tvg-logo="https://i.ibb.co/JsqHsj0/mhbERF9.jpg" group-title="→ ECUADOR ←",PANTALLA CLASICA TV
-https://ssh101-fl.bozztv.com/ssh101/pantallaclasics/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JsqHsj0/mhbERF9.jpg" group-title="→ ECUADOR ←",PANTALLA CLASICA TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8gkgXnm/pasajetv.png" group-title="→ ECUADOR ←",PASAJE TV
 http://160.20.165.246:8000/play/a001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvrxNYL0/planetartv.png" group-title="→ ECUADOR ←",PLANETA RADIO TV
@@ -2742,6 +2742,8 @@ https://stream.castr.com/643880749cf895435bf8eadf/live_d0b3cf70e24111ed8ed2951b4
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/chunklist_w476380557_vo.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/343dKSs/TRV.png" group-title="→ EL SALVADOR ←",TVR
 https://stream.ontvmx.com/ontv/CNMLXR0Z6FPtGdjcI4/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VYCV5JZR/visionocc.png" group-title="→ EL SALVADOR ←",VISION OCCIDENTAL TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/votvsv214/playlist.m3u8
 #EXTINF:-1 tvg-name="WOW MOVIES " tvg-logo="https://i.ibb.co/5141xpW/WM.png" group-title="→ EL SALVADOR ←",WOW MOVIES
 https://fl1001.bozztv.com/ssh101/wowchannelsd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="WOW TV " tvg-logo="https://i.ibb.co/KxPQsdM7/wow.png" group-title="→ EL SALVADOR ←",WOW TV
@@ -3283,10 +3285,10 @@ https://7.innovatestream.pe:19360/radionovastar/radionovastar.m3u8
 https://live-evg25.tv360.bitel.com.pe/bitel/nzktv/playlist.m3u8
 #EXTINF:-1 tvg-name="ONDA DIGITAL TV " tvg-logo="https://pbs.twimg.com/media/E8dWyD0WUAUBj9v.png" group-title="→ PERU ←",ONDA DIGITAL TV
 https://v4.tustreaming.cl/odtvgo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYtLkmdB/odtv2.png" group-title="→ PERU ←",ONDA DIGITAL TV 2
+https://live-evg25.tv360.bitel.com.pe/bitel/odtv2/playlist.m3u8?
 #EXTINF:-1 tvg-logo="https://i.ibb.co/99rmbLz/d0ac81927fcd-640-360.png" group-title="→ PERU ←",ONDA TV
 https://live-evg25.tv360.bitel.com.pe/bitel/onda/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fYtLkmdB/odtv2.png" group-title="→ PERU ←",ONDA TV 2
-https://live-evg25.tv360.bitel.com.pe/bitel/odtv2/playlist.m3u8?
 #EXTINF:-1 tvg-name="PALMERAS TV " tvg-logo="https://grupopalmerastv.com/portal/wp-content/uploads/2021/04/logo-para-web.png" group-title="→ PERU ←",PALMERAS TV
 https://video.ingenioperu.com:3982/live/palmerastvlive.m3u8
 #EXTINF:-1 tvg-name="PANAMERICANA TV " tvg-logo="https://i.ibb.co/Jt9kryv/uQhEDES.png" group-title="→ PERU ←",PANAMERICANA TV PE
@@ -3297,6 +3299,8 @@ https://live.obslivestream.com/piuratv/tracks-v1a1/mono.m3u8
 https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
 #EXTINF:-1 tvg-name="PLANETA TV " tvg-logo="https://i.ibb.co/KGxdpqG/mL3lLAF.png" group-title="→ PERU ←",PLANETA TV PE
 https://live.obslivestream.com/planetatv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Fbr83PSB/presenciatv.png" group-title="→ PERU ←",PRESENCIA TV
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-name="QT TELEVISION " tvg-logo="https://i.ibb.co/hVqB9sG/QT.png" group-title="→ PERU ←",QT TELEVISION
 https://live-evg25.tv360.bitel.com.pe/bitel/qosqo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Cgfw5T0/imperial.png" group-title="→ PERU ←",RADIO IMPERIAL TV
@@ -3313,6 +3317,8 @@ https://videoserver.tmcreativos.com:19360/rnyurimaguas/rnyurimaguas.m3u8
 https://s4.tvdatta.com:3253/live/rtptvlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/b6QRmPZ/RTP.png" group-title="→ PERU ←",RTP
 https://live-evg25.tv360.bitel.com.pe/bitel/rtp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d83ScF1/rtvpurosur.png" group-title="→ PERU ←",RTV PURO SUR
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/rtvpurosurperu/playlist.m3u8
 #EXTINF:-1 tvg-name="RTV TOTAL " tvg-logo="https://i.ibb.co/pryg6J4/logo.png" group-title="→ PERU ←",RTV TOTAL
 https://7.innovatestream.pe:19360/rtvtotal/rtvtotal.m3u8
 #EXTINF:-1 tvg-name="RSELVA TV " tvg-logo="https://i.ibb.co/wyjw5kh/DuEbKcw.png" group-title="→ PERU ←",RSELVA TV
@@ -3833,12 +3839,16 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ncjMZpL/208796.png" group-title="→ VARIADAS LATAM ←",PLETORA TV
 https://fl1004.bozztv.com/ssh101/pletnettv/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRR5vJmp/Retroplus.jpg" group-title="→ VARIADAS LATAM ←",RETRO PLUS TV 3
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8
 #EXTINF:-1 tvg-name="TELECLASICA " tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="→ VARIADAS LATAM ←",TELECLASICA
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2YXhL5/telemundo.png" group-title="→ VARIADAS LATAM ←",TELEMUNDO NUEVA INGLATERRA
 http://directo.ddns.me:2082/live/stkalval/7409/39879.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gzwfY1F/turismofm.png" group-title="→ VARIADAS LATAM ←",TURISMO FM
 https://stream.gia.tv/giatvplayout7/giatv-208343/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/rGkBwVNb/maxtv.png" group-title="→ VARIADAS LATAM ←",TV DIGITAL MAX
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdigitalmax/playlist.m3u8
 #EXTINF:-1 tvg-name="VISION LATINA " tvg-logo="https://visionlatina.com/wp-content/uploads/2022/02/VL5-2048x679.png" group-title="→ VARIADAS LATAM ←",VISION LATINA
 https://cdn.mycloudstream.io/hls/live/broadcast/7qkvsn4y/index.m3u8
 
@@ -3959,6 +3969,8 @@ https://59ec5453559f0.streamlock.net/miamitvhealth/smil:VIVALIVE/chunklist_w7426
 https://668e2e5a0f5bb.streamlock.net/JennyLiveMembers/smil:WEB3131/chunklist_w669076908_b1896000.m3u8
 #EXTINF:-1 tvg-name="MIAMI TV JENNY LIVE " tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-320x180-000000.jpg" group-title="→ VARIEDADES INT. ←",MIAMI TV JENNY LIVE
 https://59ec5453559f0.streamlock.net/JennyLive/JennyLive/chunklist_w1109206666.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YF1GYgr6/tvlitoralrn.png" group-title="→ VARIEDADES INT. ←",TV LITORAL RN
+https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvlitoralrn01/playlist.m3u8
 #EXTINF:-1 tvg-name="REVRY " tvg-logo="https://i.ibb.co/Hq9B8tj/2-bdb693af7d590b520e2355258c9c3a19-images-logo-h100-w294.png" group-title="→ VARIEDADES INT. ←",REVRY
 https://linear-43.frequency.stream/mt/brightcove/43/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-name="REVRY 2 " tvg-logo="https://i.ibb.co/Hq9B8tj/2-bdb693af7d590b520e2355258c9c3a19-images-logo-h100-w294.png" group-title="→ VARIEDADES INT. ←",REVRY 2
