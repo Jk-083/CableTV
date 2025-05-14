@@ -46,8 +46,8 @@ http://38.41.8.1:8000/play/a0cq
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/LD5TsxjX/Am-rica-TV.png" group-title="→ ENTRETENIMIENTO ←",AMERICA TV AR HD
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LD5TsxjX/Am-rica-TV.png" group-title="→ ENTRETENIMIENTO ←",AMERICA TV HD AR
+http://138.121.114.34:8000/play/a1br
 
 
 
@@ -720,8 +720,15 @@ http://181.188.234.21:8000/play/a04s
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/G4tMwbnR/El-trece-internacional.png" group-title="→ ENTRETENIMIENTO ←",EL TRECE INT ARG
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QvDd7Qg4/Canal-9.png" group-title="→ ENTRETENIMIENTO ←",EL NUEVE ARG
+http://138.121.114.34:8000/play/a1a2
 
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/G4tMwbnR/El-trece-internacional.png" group-title="→ ENTRETENIMIENTO ←",EL TRECE HD ARG
+http://138.121.114.34:8000/play/a1bq
 
 
 
@@ -1080,6 +1087,13 @@ http://181.188.234.21:8000/play/a044
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LhsgPk9G/Latele.png" group-title="→ ENTRETENIMIENTO ←",LA TELE PY
+http://138.121.114.34:8000/play/a15e
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6N5Vkcb/Latina.png" group-title="→ ENTRETENIMIENTO ←",LATINA HD
 
 
@@ -1220,6 +1234,13 @@ http://190.32.110.220:8000/play/a0da
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RT2gNbNQ/Paravision.png" group-title="→ ENTRETENIMIENTO ←",PARAVISION PY
+http://138.121.114.34:8000/play/a15h
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQss9LZ/pasiones.png" group-title="→ NOVELAS ←",PASIONES HD
 http://38.52.209.82:8000/play/a04x
 
@@ -1284,6 +1305,13 @@ http://190.92.10.66:4000/play/a001
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hRZn0fH6/SNT.png" group-title="→ ENTRETENIMIENTO ←",SNT PY
+http://138.121.114.34:8000/play/a1ah
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dcJbMsy/sony.png" group-title="→ CINE/SERIES ←",SONY HD
 http://38.52.209.82:8000/play/a046
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dcJbMsy/sony.png" group-title="→ CINE/SERIES ←",SONY
@@ -1332,6 +1360,13 @@ http://38.41.8.1:8000/play/a05n
 http://38.52.209.82:8000/play/a05t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0XwNm7Z/Studio-Universal.png" group-title="→ CINE/SERIES ←",STUDIO UNIVERSAL
 http://181.188.234.21:8000/play/a05s
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5xk7hS3b/Sur-TV.png" group-title="→ ENTRETENIMIENTO ←",SUR TV PY
+http://138.121.114.34:8000/play/a1a8
 
 
 
@@ -1403,6 +1438,20 @@ http://38.52.209.82:8000/play/a02l
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgjxkGNc/Telecinco.png" group-title="→ ENTRETENIMIENTO ←",TELECINCO HD
 
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WNLxGzjZ/Telefe.png" group-title="→ ENTRETENIMIENTO ←",TELEFE HD ARG
+http://138.121.114.34:8000/play/a1bp
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/8L4SPwnF/telefuturo.png" group-title="→ ENTRETENIMIENTO ←",TELEFUTURO PY
+http://138.121.114.34:8000/play/a15d
 
 
 
@@ -1550,8 +1599,8 @@ http://38.52.209.82:8000/play/a03p
 
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/QXVg9KQ/Canal-Trece.png" group-title="→ ENTRETENIMIENTO ←",TRECE
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QXVg9KQ/Canal-Trece.png" group-title="→ ENTRETENIMIENTO ←",TRECE PY
+http://138.121.114.34:8000/play/a19y
 
 
 
@@ -1639,6 +1688,8 @@ http://190.32.110.220:8000/play/a0eq
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LS1rXDc/Televisi-n-P-blica.png" group-title="→ ENTRETENIMIENTO ←",TVP ARGENTINA
 http://38.41.8.1:8000/play/a040
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LS1rXDc/Televisi-n-P-blica.png" group-title="→ ENTRETENIMIENTO ←",TVP HD ARGENTINA
+http://138.121.114.34:8000/play/a12l
 
 
 
