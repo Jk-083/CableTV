@@ -280,12 +280,21 @@ http://38.52.209.82:8000/play/a02a
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gjgCXp5/Canal11-HN.png" group-title="→ ENTRETENIMIENTO ←",CANAL 11 HON
 http://38.41.8.1:8000/play/a0b1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XpKM6rS/Canal11-HN.png" group-title="→ ENTRETENIMIENTO ←",CANAL 11 HON
 http://38.52.209.82:8000/play/a00s
 #EXTINF:-1 tvg-logo="https://i.ibb.co/XpKM6rS/Canal11-HN.png" group-title="→ ENTRETENIMIENTO ←",CANAL 11 HON
 http://190.32.110.220:8000/play/a0de
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYHcNyKv/Canal-12-Hn.png" group-title="→ ENTRETENIMIENTO ←",CANAL 12 HN
+http://200.115.96.61:9090/play/a069
+
 
 
 
@@ -1190,6 +1199,14 @@ http://45.176.71.20:1689/play/a0p4
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kFf7bvM/martetv.png" group-title="→ ENTRETENIMIENTO ←",MARTE TELEVISION HN
+http://200.115.96.61:9090/play/a07r
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/210vS9Fn/MasChic.png" group-title="→ ENTRETENIMIENTO ←",MASCHIC
 http://38.41.8.1:8000/play/a0w9
 
@@ -1257,6 +1274,13 @@ http://181.188.234.21:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3dnVwQM/nex.png" group-title="→ ENTRETENIMIENTO ←",NEX HD PA
 http://190.32.110.220:8000/play/a00j
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YTsw4qS/nexteca.png" group-title="→ ENTRETENIMIENTO ←",NEXTECA HN
+http://200.115.96.61:9090/play/a0hu
 
 
 
@@ -1330,6 +1354,15 @@ http://138.121.114.34:8000/play/a15h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/cQss9LZ/pasiones.png" group-title="→ NOVELAS ←",PASIONES HD
 http://38.52.209.82:8000/play/a04x
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cQss9LZ/pasiones.png" group-title="→ NOVELAS ←",PASIONES
+http://200.115.96.61:9090/play/a04q
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BHr8cvwF/PicosaTV.png" group-title="→ MUSICA ←",PICOSA TV
+http://200.115.96.61:9090/play/a067
 
 
 
@@ -1365,6 +1398,13 @@ http://190.32.110.220:8000/play/a0c1
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Ngd5H1zD/Rts.png" group-title="→ ENTRETENIMIENTO ←",RTS
 http://181.188.234.21:8000/play/a04k
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v6Lv8Mgd/rumbatv.png" group-title="→ MUSICA ←",RUMBA TV
+http://181.189.244.253:8000/play/a03h
 
 
 
@@ -1507,6 +1547,7 @@ http://45.176.71.20:1689/play/a0pd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JzBTMrm/teleantioquia.png" group-title="→ ENTRETENIMIENTO ←",TELECADENA
+http://200.115.96.61:9090/play/a0hs
 http://190.92.10.66:4000/play/a008
 
 
@@ -1580,12 +1621,14 @@ http://38.52.209.82:8000/play/a01z
 http://38.52.209.82:8000/play/a016
 #EXTINF:-1 tvg-logo="https://i.ibb.co/xqbf4qB9/Telemundo-Int.png" group-title="→ ENTRETENIMIENTO ←",TELEMUNDO INTERNACIONAL
 http://181.188.234.21:8000/play/a04n
+#EXTINF:-1 tvg-logo="https://i.ibb.co/xqbf4qB9/Telemundo-Int.png" group-title="→ ENTRETENIMIENTO ←",TELEMUNDO MIAMI
+http://200.115.96.61:9090/play/a0ii
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hF94C1s/TLN.png" group-title="→ MUSICA ←",TELENOSTALGIA
-
+http://181.189.244.253:8000/play/a03i
 
 
 
@@ -2124,7 +2167,7 @@ https://videostream.shockmedia.com.ar:19360/multivisioncable/multivisioncable.m3
 #EXTINF:-1 tvg-logo="https://neotvdigital.com.ar/imagenes/logo1.png" group-title="→ ARGENTINA ←",NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
-#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/neox-tv.png" group-title="→ ARGENTINA ←",NEOX TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RGxSx5q9/neoxtv.png" group-title="→ ARGENTINA ←",NEOX TV
 https://tv.streamcasthd.com:3076/live/sonicaargentinalive.m3u8
 
 #EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/net-tv.png" group-title="→ ARGENTINA ←",NET TV
@@ -2168,7 +2211,7 @@ https://srv2.zcast.com.br/sptv32/sptv32/chunklist_w1925198062.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Nd4jNCjs/posadas.png" group-title="→ ARGENTINA ←",TELE POSADAS
 https://videostream.shockmedia.com.ar:19360/teleposadas/teleposadas.m3u8
 
-#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/telecinco.png" group-title="→ ARGENTINA ←",TELECINCO
+#EXTINF:-1 tvg-logo="https://i.ibb.co/V0VYMRVv/telecinco.png" group-title="→ ARGENTINA ←",TELECINCO
 https://videohd.live:19360/8016/8016.m3u8
 
 #EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/telecreativa.png" group-title="→ ARGENTINA ←",TELECREATIVA
@@ -2177,7 +2220,7 @@ https://panel.dattalive.com/8012/8012/chunklist_w820577789.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2020/09/Telediez-en-vivo-Online.png" group-title="→ ARGENTINA ←",TELEDIEZ
 https://videohd.live:19360/8020/8020.m3u8
 
-#EXTINF:-1 tvg-logo="https://telearg.weebly.com/uploads/1/3/1/2/131240845/telejunin.png" group-title="→ ARGENTINA ←",TELEJUNIN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/6JVqcyKW/Tele-Junin.png" group-title="→ ARGENTINA ←",TELEJUNIN
 https://videostream.shockmedia.com.ar:19360/telejunin/telejunin.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/G4vZH6Hr/Telemax-Ar.png" group-title="→ ARGENTINA ←",TELEMAX
@@ -2392,13 +2435,16 @@ https://byecableiptvnew3.ddns.net/ENVIVOCINEMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fXx6TYN/logo-city-25.png" group-title="→ COLOMBIA ←",CITY TV
 https://giatv.bozztv.com/giatv/giatv-ctytvbogcytvg/ctytvbogcytvg/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SDMkG7Rf/ciudadelatv.png" group-title="→ COLOMBIA ←",CIUDADELA TV
+https://cp.panelchs.com:1936/8096/8096/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d4cWD1j/QlvYfEJ.png" group-title="→ COLOMBIA ←",COSMOVISION
 https://videohls2.cosmovision.tv/hls/sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VJY5Z7Q/ellevante.jpg" group-title="→ COLOMBIA ←",EL LEVANTE RTV
 https://fl1002.bozztv.com/ssh101/ellevanteradio/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/cJxyHhL/m7IRKFH.jpg" group-title="→ COLOMBIA ←",IMPO TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3YP90wC6/impotv.png" group-title="→ COLOMBIA ←",IMPO TV
 https://cp.panelchs.com:1936/8108/8108/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dutchdatacenters.nl/wp-content/uploads/2023/07/Interconnect-2.png" group-title="→ COLOMBIA ←",INTERCONNECT TV
@@ -2407,7 +2453,7 @@ https://fl1001.bozztv.com/ssh101/tv123456789/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/k9Br9gQ/logo-la-hermosa-tv.png" group-title="→ COLOMBIA ←",LHS TV
 https://ssh101-fl.bozztv.com/ssh101/lhstv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.colombia.com/canales/canal-mas-television-5347.jpg" group-title="→ COLOMBIA ←",MAS TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mr9Bq6xV/mastv.png" group-title="→ COLOMBIA ←",MAS TV
 https://movil.ejeserver.com/live/teledoradahd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/6vxK6Sv/CSbmQlu.png" group-title="→ COLOMBIA ←",MI GENTE TV
@@ -2442,6 +2488,9 @@ https://server.asilivehd.com:3802/live/canal4live.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ft9q2Xd/Y9x16vl.png" group-title="→ COLOMBIA ←",SEÑAL COLOMBIA
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/sencoltv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Xf9stt03/Tele-Cesar.png" group-title="→ COLOMBIA ←",TELECESAR
+https://eu1.servers10.com:8081/8020/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nPmvzj8/telenet-logo.png" group-title="→ COLOMBIA ←",TELENET TELEVISION
 https://cp.panelchs.com:1936/8058/8058/playlist.m3u8
@@ -2953,6 +3002,7 @@ https://xhateaec.com:8800/hls/visitor/visitor/594de10804fd75068d81156bd5663144/i
 https://us.streaminghd.cl/sonovision/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TELEAMAZONAS " tvg-logo="https://www.teleamazonas.com/wp-content/uploads/2024/03/cropped-LOGO-ta-NUEVO2.png" group-title="→ ECUADOR ←",TELEAMAZONAS
 https://teleamazonas-live.cdn.vustreams.com/live/fd4ab346-b4e3-4628-abf0-b5a1bc192428/live.isml/fd4ab346-b4e3-4628-abf0-b5a1bc192428.m3u8
+
 #EXTINF:-1 tvg-name="TELEMAR " tvg-logo="https://i.ibb.co/JdsGPQj/339750652-234065069190405-5867313538893260208-n.png" group-title="→ ECUADOR ←",TELEMAR
 https://cloudvideo.servers10.com:8081/8148/tracks-v1a1/mono.m3u8
 
@@ -4057,6 +4107,8 @@ https://fl1002.bozztv.com/ssh101/mascineclasico/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CANAL 57 USA" tvg-logo="https://i.ibb.co/yyckVLh/Canal57-Logo-White-Color.png" group-title="→ VARIADAS LATAM ←",CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bjF1Rjnw/canal74.png" group-title="→ VARIADAS LATAM ←",CANAL 74
+https://eu1.servers10.com:8081/8050/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DMWV5vh/Canal-Brasil.png" group-title="→ VARIADAS LATAM ←",CANAL BRASIL
 http://authxplus-2.xyz:2082/Tourobox1-LZIgNGsIf3/r57TZ8J6Em/237
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DMWV5vh/Canal-Brasil.png" group-title="→ VARIADAS LATAM ←",CANAL BRASIL
@@ -4113,6 +4165,8 @@ https://telecine-pelimex-1-eu.xiaomi.wurl.tv/playlist.m3u8
 https://fl1004.bozztv.com/ssh101/pletnettv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JRR5vJmp/Retroplus.jpg" group-title="→ VARIADAS LATAM ←",RETRO PLUS TV 3
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/retroplustv03/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/v7MybXN/STV.png" group-title="→ VARIADAS LATAM ←",STV
+https://eu1.servers10.com:8081/8042/index.m3u8
 #EXTINF:-1 tvg-name="TELECLASICA " tvg-logo="http://teleclasica.com/wp-content/uploads/2022/06/Naranja.jpg" group-title="→ VARIADAS LATAM ←",TELECLASICA
 https://ssh101.bozztv.com/ssh101/teleclasik/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/V2YXhL5/telemundo.png" group-title="→ VARIADAS LATAM ←",TELEMUNDO NUEVA INGLATERRA
