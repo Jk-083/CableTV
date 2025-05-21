@@ -1547,9 +1547,11 @@ http://45.176.71.20:1689/play/a0pd
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ ENTRETENIMIENTO ←",TELECADENA
-http://200.115.96.61:9090/play/a0hs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ ENTRETENIMIENTO ←",TELECADENA
 http://181.78.99.187:8000/play/a07n
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ ENTRETENIMIENTO ←",TELECADENA
+http://190.61.34.164:8000/play/a02u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ ENTRETENIMIENTO ←",TELECADENA
+http://200.115.96.61:9090/play/a0hs
 
 
 
