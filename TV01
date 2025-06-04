@@ -156,6 +156,8 @@ http://38.52.209.82:8000/play/a03q
 http://38.52.209.82:8000/play/a03f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2vtH8qc/Azteca-Guate.png" group-title="→ ENTRETENIMIENTO ←",AZTECA TV GUA
 http://190.32.110.220:8000/play/a0e0
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TMV5zWRC/aztecahon.png" group-title="→ ENTRETENIMIENTO ←",AZTECA TV HON
+http://45.68.35.218:4001/play/a02g
 #EXTINF:-1 tvg-logo="https://i.ibb.co/VpTsLn70/uno.png" group-title="→ ENTRETENIMIENTO ←",AZTECA UNO
 http://38.44.109.41:8003/play/a033
 
@@ -250,7 +252,9 @@ http://190.32.110.220:8000/play/a0e4
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WfWqGPj/5.png" group-title="→ ENTRETENIMIENTO ←",CANAL 5 MX
-
+http://45.68.35.218:4001/play/a009
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WfWqGPj/5.png" group-title="→ ENTRETENIMIENTO ←",CANAL 5 MX
+http://45.68.35.218:4001/play/a01g
 
 
 
@@ -456,7 +460,7 @@ http://45.169.163.106:8000/play/a00b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Qj2CPw1/Cine-Hispano.png" group-title="→ CINE/SERIES ←",CINE HISPANO HD
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0g3C8xH/Cine-Mexicano.png" group-title="→ CINE/SERIES ←",CINE MEXICANO
-
+http://45.68.35.218:4001/play/a01x
 
 
 
@@ -631,6 +635,8 @@ http://38.44.109.41:8003/play/a028
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
+http://45.68.35.218:4001/play/a00e
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
 http://45.169.163.106:8000/play/a029
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
@@ -1486,8 +1492,12 @@ http://fortv.cc:8080/0n8u9R/169324/78711
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5XJrZ3Q/sky-sport-bundesliga.png" group-title="→ DEPORTES ←",SKY SPORTS BUNDESLIGA
+http://45.68.35.218:4001/play/a00c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5XJrZ3Q/sky-sport-bundesliga.png" group-title="→ DEPORTES ←",SKY SPORTS BUNDESLIGA
 http://190.92.10.66:4000/play/a006
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5XJrZ3Q/sky-sport-bundesliga.png" group-title="→ DEPORTES ←",SKY SPORTS LA LIGA
+http://45.68.35.218:4001/play/a00b
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5XJrZ3Q/sky-sport-bundesliga.png" group-title="→ DEPORTES ←",SKY SPORTS LA LIGA
 http://190.92.10.66:4000/play/a001
 
@@ -1609,6 +1619,8 @@ http://45.176.71.20:1689/play/a0pd
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ ENTRETENIMIENTO ←",TELECADENA
+http://45.68.35.218:4001/play/a003
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ ENTRETENIMIENTO ←",TELECADENA
 http://181.78.99.187:8000/play/a07n
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fWC1m9q/Telecadena.png" group-title="→ ENTRETENIMIENTO ←",TELECADENA
@@ -1816,6 +1828,8 @@ http://138.121.114.34:8000/play/a19y
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/PsLVGYnZ/TUDN.png" group-title="→ DEPORTES ←",TUDN
+http://45.68.35.218:4001/play/a018
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PsLVGYnZ/TUDN.png" group-title="→ DEPORTES ←",TUDN HD
 http://190.92.10.66:4000/play/a002
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PsLVGYnZ/TUDN.png" group-title="→ DEPORTES ←",TUDN
