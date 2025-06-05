@@ -484,7 +484,7 @@ http://190.32.110.220:8000/play/a0fb
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tXG8dwW/Cine-Premium.png" group-title="→ CINE/SERIES ←",CINE PREMIUM HD
-
+http://190.61.117.35:8000/play/a042
 
 
 
@@ -655,6 +655,10 @@ http://45.68.35.218:4001/play/a00e
 http://45.71.37.194:8010/play/a0iq
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
 http://45.169.163.106:8000/play/a029
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
+http://181.78.16.75:8000/play/a053
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
+http://181.78.74.170:8000/play/a03g
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
 http://190.60.38.114:1010/play/a08f
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bR2XRYX/DEPELICULA.png" group-title="→ CINE/SERIES ←",DE PELICULA
@@ -899,12 +903,16 @@ http://38.41.8.1:8000/play/a0rp
 http://38.41.8.1:8000/play/a0t0
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 EC
 http://38.41.8.1:8000/play/a07q
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD MX
 http://38.52.209.82:8000/play/a04p
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2
 http://38.52.209.82:8000/play/a042
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 MX
+http://38.180.133.31:8000/play/a0w4
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2
 http://181.188.234.21:8000/play/a05t
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD MX
+http://45.71.254.1:8000/play/a0e7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD
 http://200.37.199.140:8000/play/a035
 
