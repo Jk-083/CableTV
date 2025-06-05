@@ -2280,6 +2280,11 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/dMmcB7z/download.png" group-title="→ ARGENTINA ←",CIUDAD MAGAZINE
 https://live-01-07-ciudad.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFmfT3b0/ciudad-magica.png" group-title="→ ARGENTINA ←",CIUDAD MAGICA TV
+https://vd01.streaminghd.net.ar:3983/live/owbaknhdlive.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFmfT3b0/ciudad-magica.png" group-title="→ ARGENTINA ←",CIUDAD MAGICA TV
+https://live20.bozztv.com/akamaissh101/ssh101/verycoolfgr/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn-profiles.tunein.com/s156526/images/logod.png" group-title="→ ARGENTINA ←",COSMOS
 https://tv.mediacp.eu:19360/cosmos/cosmos.m3u8
 
@@ -2517,6 +2522,12 @@ https://ssh101-fl.bozztv.com/ssh101/gogoplayhd/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mJ8VxWd/4eNH7JS.png" group-title="→ BOLIVIA ←",IN TV
 https://envivo.bolivia-link.com:3580/live/intvlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/96BCpqh/interactivotv2.png" group-title="→ BOLIVIA ←",INTERACTIVO TV CANAL 1
+https://mist01.homestream.fun/hls/interactivotv/0_1/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/96BCpqh/interactivotv2.png" group-title="→ BOLIVIA ←",INTERACTIVO TV CANAL 2
+https://mist01.homestream.fun/hls/interactivotv2/0_1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JFqKpvk/ce29Mbv.png" group-title="→ BOLIVIA ←",MARVISION
 https://vdo.grupolimalive.com:3631/live/marvisionlive.m3u8
@@ -3139,8 +3150,8 @@ https://cp.panelchs.com:1936/8002/8002/playlist.m3u8
 https://stream-pull-a.yololiv.com/yololiv/1215701294614847488_yo720p30f.m3u8
 #EXTINF:-1 tvg-name="HECHOS TV " tvg-logo="https://i.ibb.co/HV7RjWn/koMQZNX.png" group-title="→ ECUADOR ←",HECHOS TV
 https://online.hechosecuador.com:5443/WebRTCApp/streams/hechosecuador.m3u8
-#EXTINF:-1 tvg-name="IMPERIO TV EL EMPALME " tvg-logo="https://i.ibb.co/br2T936/channels4-profile.png" group-title="→ ECUADOR ←",IMPERIO TV EL EMPALME
-https://fl1002.bozztv.com/ssh101/imperiotvcanal6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/br2T936/channels4-profile.png" group-title="→ ECUADOR ←",IMPERIO TV EL EMPALME
+https://live20.bozztv.com/akamaissh101/ssh101/imperiotvcanal6/playlist.m3u8
 #EXTINF:-1 tvg-name="INFINITA TV " tvg-logo="https://i.ibb.co/gTktZTG/1nHxdkR.png" group-title="→ ECUADOR ←",INFINITA TV
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 #EXTINF:-1 tvg-name="INFINITA TV " tvg-logo="https://i.ibb.co/8gnLFRzr/latacungatv.png" group-title="→ ECUADOR ←",LATACUNGA TV
@@ -3162,7 +3173,7 @@ https://cloudvideo.servers10.com:8081/8118/index.m3u8
 #EXTINF:-1 tvg-name="OROMAR TV " tvg-logo="https://i.ibb.co/njX1YHt/OTV800.png" group-title="→ ECUADOR ←",OROMAR TV
 https://stream.oromar.tv/hls/oromartv_hi/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JsqHsj0/mhbERF9.jpg" group-title="→ ECUADOR ←",PANTALLA CLASICA TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/pantallaclasics/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/n8gkgXnm/pasajetv.png" group-title="→ ECUADOR ←",PASAJE TV
 http://160.20.165.246:8000/play/a001
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvrxNYL0/planetartv.png" group-title="→ ECUADOR ←",PLANETA RADIO TV
@@ -3680,6 +3691,8 @@ https://live-evg25.tv360.bitel.com.pe/bitel/cajamarcatv/playlist.m3u8
 https://live.obslivestream.com/canal8/index.m3u8
 #EXTINF:-1 tvg-name="CANAL 25 AYACUCHO " tvg-logo="https://i.ibb.co/wQNjStt/294678044-998183077689831-3608501390365130613-n.png" group-title="→ PERU ←",CANAL 25 AYACUCHO
 https://live-evg19.tv360.bitel.com.pe/canal25ayacucho/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JFj1p7kM/mtvcanal41.png" group-title="→ PERU ←",CANAL 41 MTV
+https://live20.bozztv.com/akamaissh101/ssh101/mtvcanal41/playlist.m3u8
 #EXTINF:-1 tvg-name="CANAL 49 LAMBAYEQUE " tvg-logo="https://i.ibb.co/cFYPsVV/C49L.png" group-title="→ PERU ←",CANAL 49 LAMBAYEQUE
 https://live-evg25.tv360.bitel.com.pe/bitel/lambayeque/playlist.m3u8
 #EXTINF:-1 tvg-name="CANAL 8 M " tvg-logo="https://i.ibb.co/dBR0g7z/fc5e79d73842-640-360.png" group-title="→ PERU ←",CANAL M
@@ -3820,7 +3833,7 @@ https://vdo.grupolimalive.com:3045/live/planeatvlive.m3u8
 #EXTINF:-1 tvg-name="PLANETA TV " tvg-logo="https://i.ibb.co/KGxdpqG/mL3lLAF.png" group-title="→ PERU ←",PLANETA TV PE
 https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Fbr83PSB/presenciatv.png" group-title="→ PERU ←",PRESENCIA TV
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/mitvenvivo/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/j9BM81Dq/qollasuyotv.png" group-title="→ PERU ←",QOLLASUYO TV
 https://live-evg25.tv360.bitel.com.pe/bitel/qollasuyotv/playlist.m3u8?
 #EXTINF:-1 tvg-name="QT TELEVISION " tvg-logo="https://i.ibb.co/hVqB9sG/QT.png" group-title="→ PERU ←",QT TELEVISION
@@ -4105,7 +4118,7 @@ https://cdn3.streamgato.us:3938/live/nexxotvlive.m3u8
 https://ed18ov.live.opencaster.com/bznudxxdtppv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQpWTcBZ/NV14.png" group-title="→ REP.DOM. ←",NUEVA VISION HD 14
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/nuevavisionhd/playlist.m3u8
 
 #EXTINF:-1 tvg-name="ONDA TV " tvg-logo="https://i.ibb.co/F3nNLfv/RUIyD9a.png" group-title="→ REP.DOM. ←",ONDA TV
 https://ss5.domint.net:3176/otv_str/ondatv/playlist.m3u8
@@ -4146,7 +4159,7 @@ https://175036.global.ssl.fastly.net/6217e980d5bee0e090792fdf/live_75f5635097ba1
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2KXMc6z/super55.png" group-title="→ REP.DOM. ←",SUPER TV55
 https://ss2.domint.net:3236/stv_str/supertv55/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mVT99F63/supervision2.png" group-title="→ REP.DOM. ←",SUPERVISION CANAL 22
-https://ssh101stream.ssh101.com/akamaissh101/ssh101/supervision/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/supervision/playlist.m3u8
 #EXTINF:-1 tvg-name="TELE ALTURA " tvg-logo="https://i.ibb.co/cxsCJK7/Ql2eaP0.png" group-title="→ REP.DOM. ←",TELE ALTURA
 https://fl1002.bozztv.com/ssh101/codificador7/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-name="TELE ORIENTAL " tvg-logo="https://i.ibb.co/9chzQJG/logo192-3af52b27.png" group-title="→ REP.DOM. ←",TELE ORIENTAL
@@ -4313,6 +4326,8 @@ https://fl1002.bozztv.com/ssh101/mascineclasico/playlist.m3u8
 
 #EXTINF:-1 tvg-name="CANAL 57 USA" tvg-logo="https://i.ibb.co/yyckVLh/Canal57-Logo-White-Color.png" group-title="→ VARIADAS LATAM ←",CANAL 57 USA
 https://167790.global.ssl.fastly.net/6189746bccf0424c112f5476/live_50bbca50292011ed8d265962bedee5f9/tracks-v3a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBtZJwGP/Canal-69.png" group-title="→ VARIADAS LATAM ←",CANAL 69 TV
+https://live20.bozztv.com/akamaissh101/ssh101/canal69tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bjF1Rjnw/canal74.png" group-title="→ VARIADAS LATAM ←",CANAL 74
 https://eu1.servers10.com:8081/8050/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DMWV5vh/Canal-Brasil.png" group-title="→ VARIADAS LATAM ←",CANAL BRASIL
@@ -4324,11 +4339,14 @@ https://ov-cnm-cn.ottera.tv/out/v1/9b403726f16b42cdb83b8af6b36aa01a/index_11.m3u
 #EXTINF:-1 tvg-name="CANELA TV CINE MEX" tvg-logo="https://i.ibb.co/nPn8dxr/canelatv-logo.png" group-title="→ VARIADAS LATAM ←",CANELA TV CINE MEX
 https://5649a38847154602a389db073b038f46.mediatailor.us-east-1.amazonaws.com/v1/manifest/0fb304b2320b25f067414d481a779b77db81760d/CanelaTV_PeliMex/ad75d9f5-3961-49df-a4fb-32160eddbcb0/5.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FqkX8Qys/cine53.png" group-title="→ VARIADAS LATAM ←",CINE 53
+https://live20.bozztv.com/akamaissh101/ssh101/codificador8/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/JYTqfhs/cineenespa-ol.png" group-title="→ VARIADAS LATAM ←",CINE EN ESPAÑOL
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-64e6e46f27a915f9b5184e9a/variant.m3u8?x-plex-token=p4CrA5zHbcwyJqaszxAH&x-plex-advertising-identifier=&x-plex-advertising-donottrack=0&x-plex-drm=&x-plex-device-screen-resolution=&x-plex-device-vendor=&x-plex-version=&x-plex-session-id=&x-plex-playback-session-id=&x-plex-playback-id=p_d87eef84-394a-4c8d-8f0e-94d0a964b3c3&x-plex-provider-streaming-start=1740432422&url=41e481f1009607cc3578ff2fe0d51edd-3738b81ee5801f80b96443790e525dea870b4cb6d11d3b40912327c51ab1f8c36cd6c8f9169ea489fc94e851cd50ad6fa5dbaea8f01aecfa5c441cc2a495fb68dc1eb5f874c7955c5388761a680e69f0a2c2fd377c03af77cc37bcadac1e6312a825acb9b5044c411a60deeb68dac8035e8902481a73145070263c39b8df1af2da073ec9d2c8aefef3508099ed6f9f1f3a3d628786d3b161fa725b6f3e03a76b21ba60dd76acb4d73b3b81d34baf2338e89312addb36a590a9f9341d0bbc1a47a83b300b1ce51b78c40d7061b134668b97dd8deb5a7799498a89337c1c1e460495507bc0fcde18aa5c4f9d685c613cf9a43aa8aeba7f655232789472b49c29939d4c268713bcba388e965e9ee2de9bb4e299fd55b3467a63d9a7598c820af608d23fe049e61e4aeaa450a8762f34c409e7912cfa64ffc2ff6c29f12153bc910a8e9201ddc6a684b6437efaa01672e6c71d7a5ad37f89ddb4d159dad742aced816692dc5c4355f81e040d1901e41b5b89b553bc96edcf281d6c1fda533980f749438f654803dd1e3b702297cf5b7f5f70eda78d7ec56ce33dd04fe8f677c89e128498b8c011800ac3ed1492bb4fe4e895257fdb4a57489042dec559b91737da4963413690053b078b0737f4aca426cf9b976056437386448c4d60a721f363389927f149f9947b6e8a476ae62ab8746b4933626237fae4aea0b871eaf92f8519624dc275d2f43630b2fc94c6cd1c7c9c562393bc764cd990b7c3947fb849c4e869cfd45a2d40309888a786206650688f735c899fffae15768965cdecc504c39c9b32e07aafbf64d7e049c1abc99e93e7fce670c8adcf08245fc80b8719a8df15216bd1a8f2cdcfedaac9516994bd641488b7019e758ca0ecc8d22eee08059bbfd5d6563a8e2572b0990d1a780cd7c8d892a639944461947ef6cf586fe9018353eba02b66f6eeff517ba453af99099ea68efe288976f0456e53c712a505098cfb3f5db18a3996f015e83b6f0bae77331e796a88236db17a55936d2ffb3fd646a9def761aa2de797c7d64d3ea1335f2fc41ab51740a42c9db3b8394e500de94c93f8c08650ff8b8e73286eb07aa5ed71ba24fd14d8edc88692e6ce1e4d4e93c9ca394ff31d53d0bc81eec77e60bc182e9b4eea2b8183bfd9416e84a77db16a194277d3398df1e99ef27792f5d1156d9c09c00171b56b2967515d908a8923b63274804f14f68b60f0c832bbe27e076681597a21a52cac4f751028454374738e40fdc4c483552a3fcff338d37159e0a3735b1e850de6428d1bee9056f2ff13a66a2033753fe1584df31cec9d80b3f1f81c20178ccccbda5f4e627b7decb5228ee0cd708bf2090ed50eb91cd2164b800229a5604e09906862cf19222e3ed134b29f682a59e69e4bc92c92a2a3a4237378c542db1483bfd6cb84e11b401af02ce2c14cc718c8707a3bf20d4b450854726bfdc00db72a03356289e72254cbffc55fcff2e2ac01a0885057754caa1157d604a34a79f860417794011db5cbcb3b53362e4c6080f603f03fcc2c4dc1ef64bedbdc37d3029af1fa0e060aa334fae08aa54b28c9879222e253132ca314a6e04b105c7b8d7678933ec39c876d1cea71dd2ca66c2864d012fcfc7f2aa4190a94c1c7dc26dad678f4e9b3ea841679317fc87d42a68b0745bebf48e77433bc407ceffec773531aba6eb1067a70e8fb4a0fd4359a8eba08d6c1ec35ca1725125162304ae01b7f4b5d2733525104401bb96ce4e43f32f5cfa41d44718fb65749868c2d621d912cbcc9129e3b0d96ddd25b1d05bbad7401795ac02dde0c26c4ea3365603f40416811d92cd5dce239542acbd4dd0a290141e173aaf58a6a1aa4c99632a1b1c4235c0fa74a1d6d27cf6f5a1493b165af9dad6df4781ef54767bf0936ae6e8a1d9bb4782d17e8ef55a1389a7bb99522290d39d74a6f08c674a8c084c4212cdd322050fc1d848f861b9493c23e2ff003de042b5930e5f0d816852b6ef3b308d4d132f0de7c57ef40c7c418ebae646079137e9435ff37f9645d4529906a01ae9b1de191ef2e8f4e28e8d14543408577bd41542467f3cc2fc7a784e3aa971d2bf86e9d19d6ac03eeb03ce242f4552099faa721eb030f294efc8d3afbff634dcba10b0716a2c367d9684d798f58db862dc955483b3bb75e4cf351afe536a7e61566bc827ccaf9a6dcf65c49474e839b9e6f6c5f8d8219bc5de5d3f120d70ea79316a7480a7b008529a171fe3cc7efa5528f3f8792bda40ed060f08d74e78a6ca678303a16
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RpCVfYRp/magotv.png" group-title="→ VARIADAS LATAM ←",EL MAGO TV
-https://ssh101-fl.bozztv.com/ssh101/elmagotv2/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/elmagotv2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x8jBgVF8/electronicasrtv.png" group-title="→ VARIADAS LATAM ←",ELECTRONICA SRTV
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/srtv2025/playlist.m3u8
@@ -4381,6 +4399,8 @@ http://directo.ddns.me:2082/live/stkalval/7409/39879.ts.m3u8
 https://stream.gia.tv/giatvplayout7/giatv-208343/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/rGkBwVNb/maxtv.png" group-title="→ VARIADAS LATAM ←",TV DIGITAL MAX
 https://ssh101stream.ssh101.com/akamaissh101/ssh101/tvdigitalmax/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lz7sNkB0/unicentrotv.png" group-title="→ VARIADAS LATAM ←",UNICENTRO TV
+https://live20.bozztv.com/akamaissh101/ssh101/unicentro2025/playlist.m3u8
 #EXTINF:-1 tvg-name="VISION LATINA " tvg-logo="https://visionlatina.com/wp-content/uploads/2022/02/VL5-2048x679.png" group-title="→ VARIADAS LATAM ←",VISION LATINA
 https://cdn.mycloudstream.io/hls/live/broadcast/7qkvsn4y/index.m3u8
 
