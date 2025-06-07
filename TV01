@@ -1995,10 +1995,16 @@ http://45.170.225.212:48001/play/a0b6
 
 
 
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fYvNCr1J/Ultra-Cine.png" group-title="→ CINE/SERIES ←",ULTRA CINE
+http://179.1.132.203:8000/play/a00d/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mLcgJ9C/Ultra-Familia.png" group-title="→ CINE/SERIES ←",ULTRA FAMILY
 http://45.176.193.222:2405/play/a03j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spThTWbZ/Ultra-luna.png" group-title="→ CINE/SERIES ←",ULTRA LUNA
 http://45.176.71.20:1689/play/a0ax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/pBV8GNjD/Ultra-Macho.png" group-title="→ CINE/SERIES ←",ULTRA MACHO
+http://179.1.132.203:8000/play/a009/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYjM7XGj/Ultra-Mex.png" group-title="→ CINE/SERIES ←",ULTRA MEX
 http://45.176.193.222:2405/play/a061
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1Y6M5SCp/Ultra-Tainment.png" group-title="→ CINE/SERIES ←",ULTRA TAINMENT
@@ -2706,6 +2712,9 @@ http://45.33.63.98/hls/abdi.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RgQxhXD/e6esjLZ.jpg" group-title="→ COLOMBIA ←",TU UNIVERSO TV
 https://5bf8041cb3fed.streamlock.net/TUUNIVERSOTV/TUUNIVERSOTV/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JPt8KnS/fronteratv.png" group-title="→ COLOMBIA ←",TV FRONTERA
+https://cloud.livescast.com:19360/tvfrontera/tvfrontera.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LzDzfNz/ARTE-logotvpenoltroqueladoblanco.png" group-title="→ COLOMBIA ←",TV PEÑOL
 https://stmv1.voxtvhd.com.br/tvpenol/tvpenol/playlist.m3u8
