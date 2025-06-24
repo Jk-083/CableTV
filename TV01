@@ -1,21 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hdYPGP0/Repretel-Canal4.png" group-title="→ ENTRETENIMIENTO ←",4 REPRETEL
-http://38.52.209.82:8000/play/a03o
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdYPGP0/Repretel-Canal4.png" group-title="→ ENTRETENIMIENTO ←",4 REPRETEL
-http://190.7.192.164:8022/play/s33
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hdYPGP0/Repretel-Canal4.png" group-title="→ ENTRETENIMIENTO ←",4 REPRETEL
-http://190.32.110.220:8000/play/a0ea
+http://45.71.254.1:8000/play/a0cs
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVzWCWj/Repretel-Canal6.png" group-title="→ ENTRETENIMIENTO ←",6 REPRETEL
-http://38.52.209.82:8000/play/a02p
+http://45.71.254.1:8000/play/a0br
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GVzWCWj/Repretel-Canal6.png" group-title="→ ENTRETENIMIENTO ←",6 REPRETEL HD
 http://190.7.192.162:8001/play/s2
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GVzWCWj/Repretel-Canal6.png" group-title="→ ENTRETENIMIENTO ←",6 REPRETEL HD
-http://190.7.192.164:8022/play/s32
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wZNtLsD7/Repretel-Canal11.png" group-title="→ ENTRETENIMIENTO ←",11 REPRETEL
 http://45.71.254.1:8000/play/a0bs
-#EXTINF:-1 tvg-logo="https://i.ibb.co/wZNtLsD7/Repretel-Canal11.png" group-title="→ ENTRETENIMIENTO ←",11 REPRETEL
-http://45.170.225.214:48001/play/a0bw
 
 
 
@@ -93,9 +85,7 @@ http://181.188.234.21:8000/play/a03x
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/PgscLx6/Antena-Latina.png" group-title="→ ENTRETENIMIENTO ←",ANTENA 7 RD
-http://38.52.209.82:8000/play/a00u
-#EXTINF:-1 tvg-logo="https://i.ibb.co/PgscLx6/Antena-Latina.png" group-title="→ ENTRETENIMIENTO ←",ANTENA 7 RD
-http://190.32.110.220:8000/play/a0dg
+http://45.71.254.1:8000/play/a0ab
 
 
 
@@ -235,7 +225,8 @@ http://45.170.225.214:48001/play/a07n
 http://190.32.110.220:8000/play/a0e2
 #EXTINF:-1 tvg-logo="https://i.ibb.co/yQLw4fM/Canal-4-TCS.png" group-title="→ ENTRETENIMIENTO ←",CANAL 4 HD ESA
 http://190.32.110.220:8000/play/a0d2
-
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yQLw4fM/Canal-4-TCS.png" group-title="→ ENTRETENIMIENTO ←",CANAL 4 HD ESA
+http://201.227.126.219:8000/play/a0d2
 
 
 
@@ -1343,6 +1334,8 @@ http://38.52.209.82:8000/play/a01p
 http://38.52.209.82:8000/play/a05n
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCT6Lnt/MTV.png" group-title="→ MUSICA ←",MTV
 http://181.188.234.21:8000/play/a03b
+#EXTINF:-1 tvg-logo="https://i.ibb.co/BCT6Lnt/MTV.png" group-title="→ MUSICA ←",MTV ES
+http://188.40.59.230:5100/mtv
 #EXTINF:-1 tvg-logo="https://i.ibb.co/BCT6Lnt/MTV.png" group-title="→ MUSICA ←",MTV LIVE
 http://38.52.209.82:8000/play/a04g
 
@@ -1375,6 +1368,8 @@ http://181.188.234.21:8000/play/a021
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3dnVwQM/nex.png" group-title="→ ENTRETENIMIENTO ←",NEX HD PA
 http://190.32.110.220:8000/play/a00j
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C3dnVwQM/nex.png" group-title="→ ENTRETENIMIENTO ←",NEX HD PA
+http://201.227.126.219:8000/play/a00j
 
 
 
@@ -1489,6 +1484,8 @@ http://181.188.234.21:8000/play/a05f
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2pX6F94/rpcpa.png" group-title="→ ENTRETENIMIENTO ←",RPC HD PA
 http://190.32.110.220:8000/play/a0c1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2pX6F94/rpcpa.png" group-title="→ ENTRETENIMIENTO ←",RPC HD PA
+http://201.227.126.219:8000/play/a0c1
 
 
 
@@ -1636,6 +1633,10 @@ http://181.188.234.21:8000/play/a03d
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO ←",TELEAMAZONAS
+http://38.180.133.31:8000/play/a138
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO ←",TELEAMAZONAS
+http://38.180.133.31:8000/play/a11p
+#EXTINF:-1 tvg-logo="https://i.ibb.co/kh2bHkN/Teleamazonas.png" group-title="→ ENTRETENIMIENTO ←",TELEAMAZONAS
 http://181.188.234.21:8000/play/a04t
 
 
@@ -1687,7 +1688,7 @@ http://38.52.209.82:8000/play/a02l
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/NgjxkGNc/Telecinco.png" group-title="→ ENTRETENIMIENTO ←",TELECINCO HD
-
+http://188.40.59.230:5100/TELE5
 
 
 
@@ -1726,6 +1727,8 @@ http://179.1.147.210:5000/play/a05k
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GXvthdr/telemetro.png" group-title="→ ENTRETENIMIENTO ←",TELEMETRO HD PAN
 http://201.224.113.245:8000/play/a00o
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GXvthdr/telemetro.png" group-title="→ ENTRETENIMIENTO ←",TELEMETRO HD PAN
+http://201.227.126.219:8000/play/a00o
 
 
 
@@ -1800,6 +1803,8 @@ http://38.52.209.82:8000/play/a02m
 http://38.52.209.82:8000/play/a048
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/GtrVS2C8/tigos.png" group-title="→ DEPORTES ←",TIGO SPORTS HN
 http://45.68.35.218:4001/play/a010
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/GtrVS2C8/tigos.png" group-title="→ DEPORTES ←",TIGO +
+http://190.128.129.83:8000/play/a03n
 
 
 
@@ -1946,6 +1951,8 @@ http://38.52.209.82:8000/play/a059
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMpjXLNt/TVMAX.png" group-title="→ ENTRETENIMIENTO ←",TVMAX HD PA
 http://201.224.113.245:8000/play/a00m
+#EXTINF:-1 tvg-logo="https://i.ibb.co/gMpjXLNt/TVMAX.png" group-title="→ ENTRETENIMIENTO ←",TVMAX HD PA
+http://201.227.126.219:8000/play/a00m
 
 
 
@@ -2167,6 +2174,8 @@ http://38.44.109.41:8003/play/a032
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
 http://45.236.104.229:8001/play/a0i9
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
+http://160.20.165.246:8000/play/a021
 
 
 
@@ -3019,6 +3028,8 @@ https://ssh101-fl.bozztv.com/ssh101/visionamerica/playlist.m3u8
 https://acceso.radiosportstv.online:3022/stream/play.m3u8
 #EXTINF:-1 tvg-name="MEGA HITS TV " tvg-logo="https://www.hispanatv.com/img/tv/megahits.png" group-title="→ COSTA RICA ←,MEGA HITS TV
 https://vcp8.myplaytv.com:1936/meganethits/meganethits/chunklist_w1286600499.m3u8
+#EXTINF:-1 tvg-name="MEGA HITS TV " tvg-logo="https://www.hispanatv.com/img/tv/megahits.png" group-title="→ COSTA RICA ←,MEGA HITS TV
+https://video20.klm99.com:3395/live/meganethitslive.m3u8
 #EXTINF:-1 tvg-name="MEGA TV " tvg-logo="https://i.ibb.co/CwcQjB8/logo-mega.png" group-title="→ COSTA RICA ←,MEGA TV
 https://fl1002.bozztv.com/ssh101/megatvcr2024/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1QKT2dw/FQF9NYp.png" group-title="→ COSTA RICA ←",MEGANET TV
@@ -4563,6 +4574,13 @@ http://31.173.165.29:8000/play/a01o
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qMWxC380/Cento-XCento.png" group-title="→ VIDX ←",CENTO X CENTO
+http://94.236.201.122/CENTOXCENTO/index.m3u8
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jcJx3d/1866305.png" group-title="→ VIDX ←",DESIRE
 http://88.212.7.11/live/test_desire_hd_hevc/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4jcJx3d/1866305.png" group-title="→ VIDX ←",DESIRE
@@ -4615,6 +4633,8 @@ https://5f22d76e220e1.streamlock.net/canale9/canale9/playlist.m3u8
 http://31.131.136.4:8000/play/a00k
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0w5H3g/Passion-XXX.png" group-title="→ VIDX ←",PASIONXXX
 http://213.215.119.236:88/Passion_XXX/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jj0w5H3g/Passion-XXX.png" group-title="→ VIDX ←",PASIONXXX
+http://94.236.201.122/PASSIONXXX/index.m3u8
 
 
 
@@ -4696,12 +4716,21 @@ https://stream.visit-x.tv/vxtv/ngrp:live_all/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spdNyJK2/vivid-tv.png" group-title="→ VIDX ←",VIVID TV
 http://31.131.136.4:8000/play/a00l
+#EXTINF:-1 tvg-logo="https://i.ibb.co/spdNyJK2/vivid-tv.png" group-title="→ VIDX ←",VIVID RED
+http://95.216.97.235:7776/vividredhd
 
 
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4wF0xj0s/xxl.png" group-title="→ VIDX ←",XXL
 http://31.131.136.4:8000/play/x00d
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5pKttYz/xy-plus.png" group-title="→ VIDX ←",XY PLUS
+http://95.216.97.235:7776/erox
 
 
 
