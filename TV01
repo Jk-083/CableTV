@@ -235,7 +235,15 @@ http://190.33.34.182:8000/play/a0e4
 
 
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WfWqGPj/5.png" group-title="→ ENTRETENIMIENTO ←",CANAL 5 MX
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7dHs59DF/Canal-6-TCS.png" group-title="→ ENTRETENIMIENTO ←",CANAL 6 ESA
+http://179.61.31.142:8000/play/a0g1
 
 
 
@@ -318,6 +326,13 @@ http://190.33.34.182:8000/play/a0de
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TDwgn0Dt/Canal-12-El-Salvador.png" group-title="→ ENTRETENIMIENTO ←",CANAL 12 ESA
+http://179.61.31.142:8000/play/a0g2
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYHcNyKv/Canal-12-Hn.png" group-title="→ ENTRETENIMIENTO ←",CANAL 12 HN
 http://200.115.96.61:9090/play/a069
 
@@ -389,7 +404,7 @@ http://45.71.254.1:8000/play/a0bu
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0GKD3p9/Canal-21.png" group-title="→ ENTRETENIMIENTO ←",CANAL 21 ESA
-
+http://179.61.31.142:8000/play/a0fq
 
 
 
@@ -547,9 +562,11 @@ http://190.33.34.182:8000/play/a0en
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C2zxLMD/ClaroS.png" group-title="→ DEPORTES ←",CLARO SPORTS 1
+http://179.61.31.142:8000/play/a0dp
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C2zxLMD/ClaroS.png" group-title="→ DEPORTES ←",CLARO SPORTS 1
 http://200.229.147.142:8000/play/a06o
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C2zxLMD/ClaroS.png" group-title="→ DEPORTES ←",CLARO SPORTS 2 HD
-
+http://179.61.31.142:8000/play/a08w
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C2zxLMD/ClaroS.png" group-title="→ DEPORTES ←",CLARO SPORTS 3 HD
 http://200.229.147.142:8000/play/a07m
 
@@ -666,10 +683,14 @@ http://179.51.136.19:8000/play/DSPORTS1
 http://200.60.124.19:29000/play/a081
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS
 http://200.121.48.242:28888/play/a03c
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS
+http://205.235.6.29:8000/play/a0nq/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS 2
 http://45.5.117.57:8200/play/a050
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS 2
 http://179.51.136.19:8000/play/a112
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS 2
+http://205.235.6.29:8000/play/a0nr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS
 http://179.51.136.19:8000/play/a113
 
@@ -793,6 +814,8 @@ http://181.188.234.21:8000/play/a03z
 http://38.44.109.41:8003/play/a038
 #EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
 http://181.188.234.21:8000/play/a04u
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZhkHRyb/ecdf.png" group-title="→ DEPORTES ←",ECDF
+http://205.235.6.29:8000/play/a0mf/index.m3u8
 
 
 
@@ -1123,6 +1146,13 @@ http://45.176.71.20:1689/play/a0p9
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/y6KJzY9/KDD.png" group-title="→ NOVELAS ←",KANAL D DRAMA HD
 http://45.71.254.1:8000/play/a0ja
+
+
+
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jPS5J0CC/lktvblanco.png" group-title="→ NOVELAS ←",KILLA TV
+http://181.10.123.154:14000/play/a0cv
 
 
 
@@ -1815,6 +1845,8 @@ http://38.44.109.41:8003/play/a02l
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYvNCr1J/Ultra-Cine.png" group-title="→ CINE/SERIES ←",ULTRA CINE
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/g1drPk4/Ultra-clasico.png" group-title="→ CINE/SERIES ←",ULTRA CLASICO
+http://185.197.129.30:9000/play/a05u
 #EXTINF:-1 tvg-logo="https://i.ibb.co/3mLcgJ9C/Ultra-Familia.png" group-title="→ CINE/SERIES ←",ULTRA FAMILY
 http://45.176.193.222:2405/play/a03j
 #EXTINF:-1 tvg-logo="https://i.ibb.co/spThTWbZ/Ultra-luna.png" group-title="→ CINE/SERIES ←",ULTRA LUNA
@@ -1968,6 +2000,10 @@ http://38.44.109.41:8003/play/a032
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
 http://160.20.165.246:8000/play/a021
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
+http://177.234.230.206:8011/play/a09z
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KjLb010t/zappingsportsec.png" group-title="→ DEPORTES ←",ZAPPING SPORTS
+http://205.235.6.29:8000/play/a0mh/index.m3u8
 
 
 
