@@ -865,6 +865,8 @@ http://181.188.234.21:8000/play/a05t
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD MX
 http://45.71.254.1:8000/play/a0e7
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD
+http://45.181.123.194:8000/play/a0kv
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jvdzmLQc/ESPN2.png" group-title="→ DEPORTES ←",ESPN 2 HD
 http://200.37.199.140:8000/play/a0af
 
 
