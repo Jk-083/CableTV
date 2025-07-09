@@ -243,6 +243,8 @@ http://45.71.254.1:8000/play/a0cm
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5WfWqGPj/5.png" group-title="→ ENTRETENIMIENTO ←",CANAL 5 MX
 http://138.94.253.182:10110/play/a0g7
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5WfWqGPj/5.png" group-title="→ ENTRETENIMIENTO ←",CANAL 5 MX HD
+http://190.115.15.49:8000/play/a0ll/index.m3u8
 
 
 
@@ -689,6 +691,8 @@ http://200.60.124.19:29000/play/a081
 http://200.121.48.242:28888/play/a03c
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS
 http://205.235.6.29:8000/play/a0nq/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS COL
+http://181.78.106.127:9000/play/ca026
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS 2
 http://45.5.117.57:8200/play/a050
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rkp8RbZF/DTV-sports.png" group-title="→ DEPORTES ←",DIRECTV SPORTS 2
@@ -1431,11 +1435,17 @@ http://181.78.14.26:8000/play/a01u
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/cSd8mFL6/Sky-Sports.png" group-title="→ DEPORTES ←",SKY SPORTS
+http://181.78.106.127:9000/play/ca028
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5XJrZ3Q/sky-sport-bundesliga.png" group-title="→ DEPORTES ←",SKY SPORTS BUNDESLIGA
 http://190.92.10.66:4000/play/a006
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m5XJrZ3Q/sky-sport-bundesliga.png" group-title="→ DEPORTES ←",SKY SPORTS LA LIGA
 http://190.92.10.66:4000/play/a001
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1fqLDkHh/sky-sports-premier-league.png" group-title="→ DEPORTES ←",SKY SPORTS PREMIER LEAGUE
+http://181.78.106.127:9000/play/ca029
 
 
 
@@ -1798,7 +1808,7 @@ http://190.52.105.146:8000/play/a04i
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fYtkscF/TVM.png" group-title="→ ENTRETENIMIENTO ←",TVM 25 - ESA
-
+http://181.78.99.187:8000/play/a0nx
 
 
 
