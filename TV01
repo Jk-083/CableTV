@@ -942,6 +942,13 @@ http://200.37.199.140:8000/play/a09t
 
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TqmCKJd2/ETC.png" group-title="→ ETC
+http://38.172.138.30:8000/play/a0dd
+
+
+
+
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x279xdC/EURO-CHANNEL.png" group-title="→ ENTRETENIMIENTO ←",EURO CHANNEL
 http://45.169.163.106:8000/play/a03g
 
@@ -1286,7 +1293,7 @@ http://181.188.234.21:8000/play/a021
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C3dnVwQM/nex.png" group-title="→ ENTRETENIMIENTO ←",NEX HD PA
-http://190.33.34.182:8000/play/a00j
+http://190.35.54.219:8000/play/a00j
 
 
 
@@ -1395,7 +1402,8 @@ http://181.188.234.21:8000/play/a05f
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2pX6F94/rpcpa.png" group-title="→ ENTRETENIMIENTO ←",RPC HD PA
-http://190.33.34.182:8000/play/a0c1
+http://190.35.54.219:8000/play/a0c1
+
 
 
 
@@ -1523,6 +1531,9 @@ http://181.188.234.21:8000/play/a04p
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nC118GT/tcm.png" group-title="→ CINE/SERIES ←",TCM
+http://38.172.138.30:8000/play/a026
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nC118GT/tcm.png" group-title="→ CINE/SERIES ←",TCM
 http://181.188.234.21:8000/play/a03d
 
 
@@ -1613,7 +1624,7 @@ http://179.1.147.210:5000/play/a05k
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GXvthdr/telemetro.png" group-title="→ ENTRETENIMIENTO ←",TELEMETRO HD PAN
-http://190.33.34.182:8000/play/a00o
+http://190.35.54.219:8000/play/a00o
 
 
 
@@ -1703,6 +1714,9 @@ http://45.71.254.1:8000/play/a0ol
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5x58s92/TeleTuya.png" group-title="→ ENTRETENIMIENTO ←",TLT HD
+http://38.172.138.30:8000/play/a0bz
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5x58s92/TeleTuya.png" group-title="→ ENTRETENIMIENTO ←",TLT HD
 http://190.52.105.146:8000/play/a04y
@@ -1814,7 +1828,7 @@ http://181.78.99.187:8000/play/a0nx
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gMpjXLNt/TVMAX.png" group-title="→ ENTRETENIMIENTO ←",TVMAX HD PA
-http://190.33.34.182:8000/play/a00m
+http://190.35.54.219:8000/play/a00m
 
 
 
@@ -1827,7 +1841,7 @@ http://45.71.254.1:8000/play/a0n7
 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/4CTxty9/TVN-Pa.png" group-title="→ ENTRETENIMIENTO ←",TVN HD PAN
-http://190.33.34.182:8000/play/a0c2
+http://190.35.54.219:8000/play/a0c2
 
 
 
@@ -1884,6 +1898,9 @@ http://38.44.109.41:8003/play/a00h
 
 
 
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q7Nv2Qk/unitel.png" group-title="→ ENTRETENIMIENTO ←",UNITEL
+http://38.172.138.30:8000/play/a04h
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q7Nv2Qk/unitel.png" group-title="→ ENTRETENIMIENTO ←",UNITEL HD
 http://45.225.75.8:81/play/tdt08
